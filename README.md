@@ -22,7 +22,11 @@ Breakdown the expected TPS in excel sheet and find out the actual TPS
  A report will be generate in your project source root
  
 # Load Testing Strategy:
+Here, the expected TPS (Transaction Per/Second) meet the above requirement.
+
 ![Capture1](https://github.com/FarihaNusrat460/Random-User-API-Performance-Test./assets/67582150/4d7b1f7f-cb9e-4f14-b1a1-1b0797797bd8)
+
+
 
 
 # Stress Testing Strategy:
